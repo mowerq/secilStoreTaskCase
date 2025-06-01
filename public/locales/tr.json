@@ -1,0 +1,157 @@
+{
+  "common": {
+    "save": "Kaydet",
+    "cancel": "İptal Et",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "add": "Ekle",
+    "close": "Kapat",
+    "confirm": "Onayla",
+    "loading": "Yükleniyor...",
+    "error": "Hata!",
+    "errorOccurred": "Bir hata oluştu. Lütfen tekrar deneyin.",
+    "unauthorized": "Yetkisiz erişim. Lütfen giriş yapın.",
+    "actions": "İşlemler",
+    "name": "İsim",
+    "description": "Açıklama",
+    "title": "Başlık",
+    "subtitle": "Alt Başlık",
+    "filter": "Filtrele",
+    "filters": "Filtreler",
+    "clearFilters": "Filtreleri Temizle",
+    "applyFilters": "Filtreleri Uygula",
+    "yes": "Evet",
+    "no": "Hayır",
+    "page": "Sayfa",
+    "of": "/",
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "pagination": "Sayfalama"
+  },
+  "loginPage": {
+    "pageTitle": "Giriş Yap",
+    "emailLabel": "E-Posta",
+    "passwordLabel": "Şifre",
+    "rememberMeLabel": "Beni Hatırla",
+    "loginButton": "Giriş Yap",
+    "loggingInButton": "Giriş Yapılıyor...",
+    "errorMessage": "Giriş başarısız. Lütfen bilgilerinizi kontrol edin."
+  },
+  "header": {
+    "toggleTheme": "Temayı Değiştir",
+    "changeLanguage": "Dili Değiştir",
+    "notifications": "Bildirimler",
+    "messages": "Mesajlar",
+    "settings": "Ayarlar",
+    "accountMenuTooltip": "Hesap Ayarları",
+    "logout": "Çıkış Yap"
+  },
+  "sidebar": {
+    "menuGroup": "MENÜ",
+    "salesGroup": "SATIŞ",
+    "dashboard": "Dashboard",
+    "products": "Ürünler",
+    "collections": "Koleksiyon"
+  },
+  "pageTitles": {
+    "collections": {
+      "title": "Koleksiyonlar",
+      "subtitle": "Koleksiyon Listesi"
+    },
+    "editCollection": {
+      "title": "Koleksiyon Düzenle",
+      "subtitle": "Sabitleri ve Ürünleri Yönet"
+    }
+  },
+  "collectionsPage": {
+    "loading": "Koleksiyonlar yükleniyor...",
+    "noCollectionsFound": "Gösterilecek koleksiyon bulunamadı.",
+    "tableHeaders": {
+      "title": "Başlık",
+      "productConditions": "Ürün Koşulları",
+      "salesChannel": "Satış Kanalı",
+      "actions": "İşlemler"
+    },
+    "manualCollection": "Manuel Koleksiyon",
+    "productCountSuffix": "ürün",
+    "automaticFiltered": "Otomatik (Filtre Yok)",
+    "salesChannelPrefix": "Kanal",
+    "editConstantsButton": "Sabitleri Düzenle"
+  },
+  "editCollectionPage": {
+    "activeFilters": "Aktif Filtreler",
+    "noActiveFilters": "Aktif filtre yok",
+    "collectionProducts": "Koleksiyon Ürünleri",
+    "constants": "Sabitler",
+    "productsFound": "ürün bulundu",
+    "productsPinned": "ürün sabitlendi",
+    "layout": "Layout",
+    "noConstantsYet": "Henüz sabit ürün yok",
+    "noConstantsDescription": "Sol panelden ürünleri seçerek sabitler bölümüne ekleyebilirsiniz",
+    "addProductsDescription": "Ürünleri ekleyerek sabitleyin",
+    "products": "Ürünler",
+    "productsCount": "Ürünler",
+    "constantsCount": "Sabitler",
+    "removeProduct": "Ürünü Kaldır",
+    "removeProductMessage": "Bu ürünü sabitlerden kaldırmak istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+    "saveChanges": "Değişiklikleri Kaydet",
+    "saveChangesMessage": "Sabitler listesindeki tüm değişiklikler kaydedilecek. Devam etmek istediğinizden emin misiniz?",
+    "operationSuccessful": "İşlem Başarılı",
+    "operationSuccessfulMessage": "Değişiklikleriniz başarıyla kaydedildi.",
+    "errorOccurred": "Hata Oluştu",
+    "errorOccurredMessage": "İşlem sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+    "product": "Ürün",
+    "added": "Eklendi",
+    "placeholder": "Yer Tutucu",
+    "order": "Sıra",
+    "more": "daha",
+    "filterModal": {
+      "searchFilter": "Filtre ara...",
+      "depot": "Depo",
+      "allDepots": "Tüm Depolar",
+      "mainDepot": "Ana Depo",
+      "secondaryDepot": "Yedek Depo",
+      "minStock": "Min Stok",
+      "maxStock": "Max Stok",
+      "stockInAllSizes": "Tüm Bedenlerinde Stok Olanlar",
+      "sorting": "Sıralama",
+      "sortByName": "İsme Göre",
+      "sortByPrice": "Fiyata Göre",
+      "sortByDate": "Tarihe Göre",
+      "selectedFilters": "Seçili Filtreler",
+      "noFiltersSelected": "Henüz filtre seçilmedi",
+      "availableFilters": "Mevcut Filtreler"
+    },
+    "productsInSectionTitle": "Koleksiyondaki Ürünler",
+    "filtersSectionTitle": "Filtreler",
+    "productOrderSectionTitle": "Ürün Sıralaması",
+    "dragAndDropHelpText": "Ürünleri sürükleyip bırakarak yeniden sıralayın.",
+    "filterOptions": {
+      "category": "Kategori",
+      "price": "Fiyat",
+      "color": "Renk",
+      "size": "Beden",
+      "tag": "Etiket"
+    },
+    "comparisonTypes": {
+      "equals": "Eşittir",
+      "greaterThan": "Büyüktür",
+      "lessThan": "Küçüktür",
+      "contains": "İçerir"
+    },
+    "saveChangesButton": "Değişiklikleri Kaydet",
+    "cancelButton": "Vazgeç",
+    "confirmChangesModal": {
+      "title": "Değişiklikleri Onayla",
+      "bodyText": "Aşağıdaki değişiklikler uygulanacaktır. Onaylıyor musunuz?",
+      "confirmButton": "Onayla",
+      "cancelButton": "İptal"
+    },
+    "noProductsInCollection": "Bu koleksiyonda henüz ürün bulunmamaktadır.",
+    "noFiltersApplied": "Bu koleksiyon için henüz filtre uygulanmamıştır.",
+    "position": "Pozisyon",
+    "unsavedChanges": "Kaydedilmemiş Değişiklikler",
+    "unsavedChangesMessage": "Kaydedilmemiş değişiklikleriniz var. Şimdi ayrılırsanız, tüm değişiklikler kaybolacak. Devam etmek istiyor musunuz?",
+    "unsavedChangesWarning": "Kaydedilmemiş değişiklikleriniz var. Ayrılmak istediğinizden emin misiniz?"
+  }
+}

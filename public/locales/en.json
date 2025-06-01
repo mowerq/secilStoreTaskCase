@@ -1,0 +1,157 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "close": "Close",
+    "confirm": "Confirm",
+    "loading": "Loading...",
+    "error": "Error!",
+    "errorOccurred": "An error occurred. Please try again.",
+    "unauthorized": "Unauthorized. Please log in.",
+    "actions": "Actions",
+    "name": "Name",
+    "description": "Description",
+    "title": "Title",
+    "subtitle": "Subtitle",
+    "filter": "Filter",
+    "filters": "Filters",
+    "clearFilters": "Clear Filters",
+    "applyFilters": "Apply Filters",
+    "yes": "Yes",
+    "no": "No",
+    "page": "Page",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Next",
+    "pagination": "Pagination"
+  },
+  "loginPage": {
+    "pageTitle": "Login",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "rememberMeLabel": "Remember Me",
+    "loginButton": "Login",
+    "loggingInButton": "Logging in...",
+    "errorMessage": "Login failed. Please check your credentials."
+  },
+  "header": {
+    "toggleTheme": "Toggle Theme",
+    "changeLanguage": "Change Language",
+    "notifications": "Notifications",
+    "messages": "Messages",
+    "settings": "Settings",
+    "accountMenuTooltip": "Account Settings",
+    "logout": "Logout"
+  },
+  "sidebar": {
+    "menuGroup": "MENU",
+    "salesGroup": "SALES",
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "collections": "Collection"
+  },
+  "pageTitles": {
+    "collections": {
+      "title": "Collections",
+      "subtitle": "Collection List"
+    },
+    "editCollection": {
+      "title": "Edit Collection",
+      "subtitle": "Manage Constants and Products"
+    }
+  },
+  "collectionsPage": {
+    "loading": "Loading collections...",
+    "noCollectionsFound": "No collections found.",
+    "tableHeaders": {
+      "title": "Title",
+      "productConditions": "Product Conditions",
+      "salesChannel": "Sales Channel",
+      "actions": "Actions"
+    },
+    "manualCollection": "Manual Collection",
+    "productCountSuffix": "products",
+    "automaticFiltered": "Automatic (No Filters)",
+    "salesChannelPrefix": "Channel",
+    "editConstantsButton": "Edit Constants"
+  },
+  "editCollectionPage": {
+    "activeFilters": "Active Filters",
+    "noActiveFilters": "No active filters",
+    "collectionProducts": "Collection Products",
+    "constants": "Constants",
+    "productsFound": "products found",
+    "productsPinned": "products pinned",
+    "layout": "Layout",
+    "noConstantsYet": "No constants yet",
+    "noConstantsDescription": "You can add products from the left panel to the constants section",
+    "addProductsDescription": "Add products by pinning them",
+    "products": "Products",
+    "productsCount": "Products",
+    "constantsCount": "Constants",
+    "removeProduct": "Remove Product",
+    "removeProductMessage": "Are you sure you want to remove this product from constants? This action cannot be undone.",
+    "saveChanges": "Save Changes",
+    "saveChangesMessage": "All changes in the constants list will be saved. Are you sure you want to continue?",
+    "operationSuccessful": "Operation Successful",
+    "operationSuccessfulMessage": "Your changes have been saved successfully.",
+    "errorOccurred": "An Error Occurred",
+    "errorOccurredMessage": "An error occurred during the operation. Please try again.",
+    "product": "Product",
+    "added": "Added",
+    "placeholder": "Placeholder",
+    "order": "Order",
+    "more": "more",
+    "filterModal": {
+      "searchFilter": "Search filter...",
+      "depot": "Depot",
+      "allDepots": "All Depots",
+      "mainDepot": "Main Depot",
+      "secondaryDepot": "Secondary Depot",
+      "minStock": "Min Stock",
+      "maxStock": "Max Stock",
+      "stockInAllSizes": "Stock in All Sizes",
+      "sorting": "Sort By",
+      "sortByName": "By Name",
+      "sortByPrice": "By Price",
+      "sortByDate": "By Date",
+      "selectedFilters": "Selected Filters",
+      "noFiltersSelected": "No filters selected yet",
+      "availableFilters": "Available Filters"
+    },
+    "productsInSectionTitle": "Products in Collection",
+    "filtersSectionTitle": "Filters",
+    "productOrderSectionTitle": "Product Order",
+    "dragAndDropHelpText": "Drag and drop products to reorder.",
+    "filterOptions": {
+      "category": "Category",
+      "price": "Price",
+      "color": "Color",
+      "size": "Size",
+      "tag": "Tag"
+    },
+    "comparisonTypes": {
+      "equals": "Equals",
+      "greaterThan": "Greater than",
+      "lessThan": "Less than",
+      "contains": "Contains"
+    },
+    "saveChangesButton": "Save Changes",
+    "cancelButton": "Cancel",
+    "confirmChangesModal": {
+      "title": "Confirm Changes",
+      "bodyText": "The following changes will be applied. Do you confirm?",
+      "confirmButton": "Confirm",
+      "cancelButton": "Cancel"
+    },
+    "noProductsInCollection": "There are no products in this collection yet.",
+    "noFiltersApplied": "No filters have been applied to this collection yet.",
+    "position": "Position",
+    "unsavedChanges": "Unsaved Changes",
+    "unsavedChangesMessage": "You have unsaved changes. If you leave now, all changes will be lost. Do you want to continue?",
+    "unsavedChangesWarning": "You have unsaved changes. Are you sure you want to leave?"
+  }
+}
